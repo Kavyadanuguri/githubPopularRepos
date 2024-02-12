@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.filter-list-container1 {
+  list-style-type: none;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.filter-p1 {
+  font-style: 'roboto';
+  font-weight: bold;
+}
+.filter-btn1 {
+  background-color: transparent;
+  border-width: 0px;
+  margin-bottom: 0px;
+}
